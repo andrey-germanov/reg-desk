@@ -14,3 +14,10 @@
 .App{
   background-color: #eeeef5;
 }
+
+.ant-card-body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
